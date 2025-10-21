@@ -71,8 +71,8 @@ python task1.py --n 20 --seed 999
 
 ### Sample Output
 ```
-Tour (indices): [0, 3, 7, 2, 8, 1, 5, 4, 6, 0]
-Tour length ≈ 284.37 units
+Tour (indices): [0, 10, 11, 9, 4, 3, 2, 14, 8, 12, 5, 13, 7, 6, 1, 0]
+Tour length ≈ 284.44 units
 Saved plot: plot_task1.png
 ```
 ### Visual Output Example
