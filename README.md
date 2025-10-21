@@ -1,4 +1,4 @@
-# Task 1: Random Points TSP
+# Assignment 1: Basic TSP on Random Points
 
 > Nearest Neighbor algorithm implementation for randomly generated TSP instances
 
